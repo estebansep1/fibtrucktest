@@ -22,14 +22,14 @@ h1 {
     padding-top: 15px
   }
   
-   .nav-pic   {
-                 background-image: url('https://drive.google.com/uc?                             export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
-                  
+   .nav-pic {
+    
+  background-image: url('https://drive.google.com/uc?                             export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');              
   background-repeat: no-repeat;
   background-size: auto;
   padding: 100px;
   display: none;
-                    }         
+      }         
     
     img {
     display: block;
@@ -242,5 +242,10 @@ h1 {
     align-items: center;
     flex-direction: row-reverse;
   }
-  
-  
+
+  *{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    }
