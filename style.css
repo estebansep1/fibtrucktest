@@ -1,0 +1,246 @@
+h1 {
+    background-color: #F6BD62;
+  }
+  
+  div {
+    background-color: beige;
+  }
+  
+  p {
+    background-color: beige;
+    color: #B20101;
+    }
+  
+    a.thicker {
+    font-weight: 900;
+  }
+  
+   
+    .center {
+    text-align: center;
+    border: 3px solid red;
+    padding-top: 15px
+  }
+  
+   .nav-pic   {
+                 background-image: url('https://drive.google.com/uc?                             export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
+                  
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding: 100px;
+  display: none;
+                    }         
+    
+    img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+  
+  .menu-section{
+    background-color: lightgrey;
+    font-weight: bold;
+    
+  }
+  
+  .menu-item{
+    color: black;
+    font-weight: 900;
+  }
+  
+  .menu-item-description{
+    font-weight:400;
+  }
+  
+  .about-us{
+   margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: beige;
+    display: none;
+  }
+  
+  .math-favs{
+    color: #B20101;
+    background-color: beige;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+  
+  .quarter-menu{
+    margin-top: 100px;
+    margin-bottom: 75px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
+  sides-menu{
+    margin-top: 100px;
+    margin-bottom: 75px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  
+  .sides-menu{
+    background-color: beige;
+  }
+  
+  .hours{
+   margin-top: 100px;
+   margin-bottom: 75px;
+   margin-right: 150px;
+   margin-left: 80px;
+  }
+  
+  .location-info{
+    color: #B20101;
+    margin-top: 100px;
+    margin-bottom: 75px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color:beige;
+  }
+  
+  .grill-pic{
+    width:300px;
+    height: 300px;
+  }
+  
+  .social-media{
+   width: 50px;
+   height: 50px;
+    
+      background-color:blanchedalmond;
+      font-size: larger;
+      display: flex;
+      margin: 0 auto;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+  }
+  
+  
+   .media{
+      background-color:#F6BD62;
+      font-size: larger;
+      display: flex;
+      margin: 0 auto;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    
+    }
+    .instagramlogo{
+      margin: 0 auto;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-right: 5px;
+      padding-bottom: 0px;
+      width: 25px;
+      height: 25px;
+      display: inline-block;
+  }
+  .instagramlogo:hover{
+     opacity: 0.7;
+  }
+    .twitterlogo{
+      margin: 0 auto;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-right: 5px;
+      padding-bottom: 0px;
+      width: 25px;
+      height: 25px;
+      display: inline-block;
+    }
+  .twitterlogo:hover{
+    opacity: 0.7;
+  }
+    .facebooklogo{
+      margin: 0 auto;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-right: 5px;
+      padding-bottom: 0px;
+      width: 25px;
+      height: 25px;
+      display: inline-block;
+    }
+  .facebooklogo:hover{
+    opacity: 0.7;
+  }
+  
+  .navbar{
+     color: white;
+     overflow: hidden;
+     background-color: #C72E07 ;            
+     position: fixed;
+     top: 0;
+     width: 100%;
+  }
+  
+  .navbar a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      
+    
+  }
+  
+  .navbar a:hover{
+    background-color: grey;
+    
+  }
+  
+  .favorite-image{
+    display: flex;
+    height: 150px;
+    width: 150px;
+  }
+  
+  .about-us {
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: beige;
+    color: #B20101;
+   
+  }
+  
+  .about-format {
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .copyright{
+    background-color: #F6BD62;
+  }
+  
+  .favorites{
+     margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row-reverse;
+  }
+  
+  
