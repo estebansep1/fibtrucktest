@@ -19,21 +19,33 @@ h1 {
     .center {
     text-align: center;
     border: 3px solid red;
-    padding-top: 15px
+    padding-top: 15px;
   }
-  
-   .nav-pic {
-  background-image: url('https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');    
+
+.nav-container {
+  background-image: url('https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
   background-repeat: no-repeat;
   background-size: auto;
-  padding: 100px;
-  
-      }
-      
-    .background-img {
-    background-image: url('https://drive.google.com/uc?export=view&id=1KVDapld513gDp4XOaLft0qfmeyxhszdV');
-    }
+  padding: 50px; 
 
+}
+
+.nav-pic {
+  max-width: 500px;
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+  border-radius: 50%;
+  border: 6px solid #B20101
+}
+
+.nav-pic{
+  background-color: #807c80b6;
+}
     
     img {
     display: block;
